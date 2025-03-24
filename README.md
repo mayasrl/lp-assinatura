@@ -18,13 +18,6 @@ Este projeto é uma landing page do **Clube de Assinatura Encantos Literários**
 - **`index.html`**: Arquivo principal com a marcação da landing page.
 - **Pasta `assets/`**: Contém imagens, ícones e logotipos usados ao longo do projeto.
 - **Pasta `styles/`**: Arquivos CSS organizados em módulos:
-  - **global.css**: Estilos e variáveis globais para o projeto.
-  - **utility.css**: Classes utilitárias para alinhamento, grid e flexbox.
-  - **hero.css**: Estilos para a seção principal (hero) com animações e fundos dinâmicos.
-  - **surprise.css**: Estilos para a seção que destaca o livro surpresa e os brindes.
-  - **month.css**: Estilos para a apresentação do kit mensal.
-  - **price.css**: Estilos para a seção de preços e planos de assinatura.
-  - **footer.css**: Estilos para o rodapé com informações de contato e links sociais.
 
 ---
 
