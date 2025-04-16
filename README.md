@@ -1,7 +1,7 @@
 # Encantos Literários
 
 Este projeto é uma landing page do **Clube de Assinatura Encantos Literários**, um serviço que proporciona uma experiência literária única por meio do envio mensal de um livro surpresa – acompanhado de brindes exclusivos – para os amantes da leitura. Desenvolvido com **HTML5** e **CSS3**, o projeto demonstra técnicas avançadas de estruturação semântica, estilização responsiva e interatividade com animações sutis.
-
+ 
 ---
 
 ## Visão Geral
