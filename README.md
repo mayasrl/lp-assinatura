@@ -26,5 +26,5 @@ Este projeto é uma landing page do **Clube de Assinatura Encantos Literários**
 ---
 
 <p align="center">
-  Desenvolvido durante uma aula do curso Fullstack da <strong>Rocketseat</strong> com 💛 por <strong>@mayasrl</strong>.
+  Desenvolvido durante o curso Fullstack da <strong>Rocketseat</strong> com 💛 por <strong>@mayasrl</strong>.
 </p>
